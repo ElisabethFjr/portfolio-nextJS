@@ -35,18 +35,6 @@ async function About({ locale }: { locale: string }) {
             </p>
           </div>
         </article>
-        <div className={styles.img}>
-          <Image
-            src="/images/photo.webp"
-            alt="Elisabeth Photo"
-            width={396}
-            height={396}
-            style={{
-              width: '100%',
-              height: 'auto',
-            }}
-          />
-        </div>
       </div>
     </FadeInSection>
   );

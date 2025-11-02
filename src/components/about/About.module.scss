@@ -8,7 +8,7 @@
     .article {
       display: flex;
       flex-direction: column;
-      width: 60%;
+      width: 100%;
       color: $violetLight;
       .text {
         display: flex;
@@ -22,12 +22,6 @@
           font-size: 1.2rem;
         }
       }
-    }
-    .img {
-      border-radius: 50%;
-      width: 400px;
-      height: auto;
-      margin-left: 5%;
     }
   }
   .bold {

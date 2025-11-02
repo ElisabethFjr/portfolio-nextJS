@@ -12,12 +12,12 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Portfolio - Elisabeth FAUJOUR - Développeuse Web Front-End',
+  title: 'Portfolio - Elisabeth - Développeuse Web Front-End',
   description:
-    'Portfolio de Elisabeth FAUJOUR, développeuse Web Front-end, et réalisé avec amour avec Next.js.',
+    'Portfolio de Elisabeth, développeuse Web Front-end, et réalisé avec amour avec Next.js.',
   keywords:
-    'Elisabeth FAUJOUR, FAUJOUR, Portfolio, Développeuse, Développeur, Développeur Web, Front-End, Javascript, Next.js, React, Node.js, Web, Reconversion, React, UX/UI, HTML, CSS, SCSS, Typescript.',
-  metadataBase: new URL('https://elisabethfaujour.vercel.app/'),
+    'Portfolio, Développeuse, Développeur, Développeur Web, Front-End, Javascript, Next.js, React, Node.js, Web, Reconversion, React, UX/UI, HTML, CSS, SCSS, Typescript.',
+  metadataBase: new URL('https://zabeth-web-dev.vercel.app/'),
 };
 
 export async function generateStaticParams() {
