@@ -1,4 +1,4 @@
-# Portfolio - Elisabeth FAUJOUR - Développeuse Web Front-End
+# Portfolio - Elisabeth F. - Développeuse Web Front-End
 
 ## Description
 
@@ -6,7 +6,7 @@ Voici mon Portfolio, un projet responsive et accessible, développé pour une pr
 
 ## Link
 
-https://elisabethfaujour.vercel.app
+https://zabeth-web-dev.vercel.app
 
 ## Technos
 

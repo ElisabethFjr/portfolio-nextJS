@@ -59,25 +59,6 @@
           font-size: 1.4rem;
           font-weight: 300;
         }
-        .resume {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          gap: 0.5rem;
-          width: fit-content;
-          padding: 0.8rem 2rem;
-          margin-top: 1.5rem;
-          background: linear-gradient(45deg, $blue, $violet 30%, $violetPink);
-          border-radius: 3rem;
-          color: $violetLight;
-          text-align: center;
-          text-transform: uppercase;
-          transition: all 0.3s ease-in-out;
-
-          &:hover {
-            transform: scale(1.05);
-          }
-        }
       }
     }
   }
